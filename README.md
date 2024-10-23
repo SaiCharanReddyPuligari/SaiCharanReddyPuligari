@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Reddy Puligari</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharanreddypuligari&label=Profile%20views&color=0e75b6&style=flat" alt="saicharanreddypuligari" /> </p>
-
 - 🔭 I’m currently working as **Software Developer [SAP ABAP]**
 
 - 📫 How to reach me **reddysaicharan12345@gmail.com**
