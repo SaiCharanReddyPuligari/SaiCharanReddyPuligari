@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Reddy Puligari</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working as **Software Developer [SAP ABAP]**
+- 🔭 I’m currently working as **Software Developer at Cognizant**
 
-- 📫 How to reach me **reddysaicharan12345@gmail.com**
+- 📫 Reach out to me @**reddysaicharan12345@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kNgXxeCdArqeAE84AXFmbO65AZXMHv81/edit](https://docs.google.com/document/d/1kNgXxeCdArqeAE84AXFmbO65AZXMHv81/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dHwdGBxS69JWQvVfn7XV_Tk8950wRlHY)
 
 <h3 align="left">Connect with me:</h3>
 <p align='center'>
